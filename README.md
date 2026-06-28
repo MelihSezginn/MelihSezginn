@@ -5,7 +5,9 @@
 ### 💻 Junior Frontend Developer
 
 🎓 İsmet İnönü Mesleki ve Anadolu Teknik Lisesi
+
 🎓 Osmaniye Korkut Ata Üniversitesi Kadirli Meslek Yüksekokulu
+
 🌍 Adana, Türkiye
 
 ---

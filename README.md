@@ -4,6 +4,7 @@
 
 ### 💻 Junior Frontend Developer
 
+🎓 İsmet İnönü Mesleki ve Anadolu Teknik Lisesi
 🎓 Osmaniye Korkut Ata Üniversitesi Kadirli Meslek Yüksekokulu
 🌍 Adana, Türkiye
 
@@ -93,9 +94,9 @@
 
 ### 📈 GitHub İstatistiklerim
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MelihSezginn&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelihSezginn&layout=compact&theme=tokyonight"/>
 
 </div>
 

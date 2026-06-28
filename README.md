@@ -4,9 +4,9 @@
 
 ### 💻 Junior Frontend Developer
 
-🎓 İsmet İnönü Mesleki ve Anadolu Teknik Lisesi
-
 🎓 Osmaniye Korkut Ata Üniversitesi Kadirli Meslek Yüksekokulu
+
+🎓 İsmet İnönü Mesleki ve Anadolu Teknik Lisesi
 
 🌍 Adana, Türkiye
 
@@ -18,7 +18,7 @@
 
 💻 HTML, CSS, ASP.NET Core ve C# kullanarak çeşitli projeler geliştirdim.
 
-🖥️ Bilgisayar donanımı, ağ teknolojileri ve Linux sistemleriyle ilgileniyorum.
+🖥️ Bilgisayar donanımı, Ağ teknolojileri ile ilgileniyorum.
 
 🚀 Sürekli öğrenmeye ve yeni teknolojileri keşfetmeye önem veriyorum.
 

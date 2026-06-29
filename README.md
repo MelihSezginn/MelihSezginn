@@ -88,8 +88,6 @@
 
 📧 **[melihsezgin25@gmail.com](mailto:melihsezgin25@gmail.com)**
 
-📱 **0540 154 1274**
-
 ---
 
 <div align="center">
